@@ -13,7 +13,16 @@
 		"faith": 1,
 		"turnsToBuild": 4,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Production] for each adjacent [MY Lumber mill]","Does not need removal of [Forest]","Does not need removal of [Jungle]","[+2 Production] <after discovering [Scientific Theory]>", "Improves [all] resource in this tile", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": [
+			"[+1 Production] for each adjacent [MY Lumber mill]",
+			"Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]",
+			"[+2 Production] <after discovering [Scientific Theory]>",
+			"Improves [Strategic] resource in this tile",
+			"Improves [Luxury] resource in this tile", 
+			"Improves [Bonus] resource in this tile",  
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
 		"shortcutKey": "L"
 	}
 ]
