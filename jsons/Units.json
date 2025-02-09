@@ -1,0 +1,52 @@
+[
+
+	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/
+
+	/* Ancient Era */
+	{
+		"name": "MY Jaguar",
+		"unitType": "Sword",
+		"uniqueTo": "Iroquois",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 25,
+		"promotions": ["Ignore terrain cost", "[MY Jaguar] ability", "Woodsman", "Quick Study", "Great Generals I", "MY Faith", "MY Tactics", "MY Sight"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	}
+
+
+	/* Classical Era */
+
+	// Medieval Era
+	
+
+	// Rennaisance Era
+
+	
+
+	// Industrial Era
+
+	
+
+	// Modern era
+
+	
+
+	// Atomic Era
+
+	
+
+	// Information Era
+	
+
+	/* Great people */
+
+	
+
+	/* Spaceship Parts */
+	// Must be transported to the Capital for launch.
+	// Can be destroyed by any hostile military unit walking in their tile.
+	
+]
